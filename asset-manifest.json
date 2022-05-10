@@ -13,12 +13,12 @@
   "static/media/discord_logo.png": "/MarioStrikersWebsite/static/media/discord_logo.17b45243.png",
   "static/media/crumbLogo.png": "/MarioStrikersWebsite/static/media/crumbLogo.035c37f4.png",
   "static/media/wclogo.png": "/MarioStrikersWebsite/static/media/wclogo.a8fc83da.png",
-  "static/media/mdb.css": "/MarioStrikersWebsite/static/media/Roboto-Bold.e31fcf18.ttf",
-  "static/media/WolfTV.png": "/MarioStrikersWebsite/static/media/WolfTV.180dbdc0.png",
+  "static/media/mdb.css": "/MarioStrikersWebsite/static/media/arrow_left.11911410.svg",
   "static/media/mario_strikers_speedrunning_logo.png": "/MarioStrikersWebsite/static/media/mario_strikers_speedrunning_logo.b159a552.png",
-  "static/media/mario_strikers_france_logo.png": "/MarioStrikersWebsite/static/media/mario_strikers_france_logo.873dd279.png",
   "static/media/mario_strikers_deutsch_logo.png": "/MarioStrikersWebsite/static/media/mario_strikers_deutsch_logo.75c121d8.png",
+  "static/media/WolfTV.png": "/MarioStrikersWebsite/static/media/WolfTV.180dbdc0.png",
   "static/media/wii_sports_logo.png": "/MarioStrikersWebsite/static/media/wii_sports_logo.4bc393a3.png",
+  "static/media/mario_strikers_france_logo.png": "/MarioStrikersWebsite/static/media/mario_strikers_france_logo.873dd279.png",
   "static/media/Ragnarok_logo.png": "/MarioStrikersWebsite/static/media/Ragnarok_logo.3333ddb7.png",
   "static/media/landing_page_bg2.png": "/MarioStrikersWebsite/static/media/landing_page_bg2.71840443.png",
   "static/media/332288.png": "/MarioStrikersWebsite/static/media/332288.9e85f94d.png",
@@ -38,6 +38,6 @@
   "static/css/main.b0dffe5b.chunk.css.map": "/MarioStrikersWebsite/static/css/main.b0dffe5b.chunk.css.map",
   "static/css/2.d064acbd.chunk.css.map": "/MarioStrikersWebsite/static/css/2.d064acbd.chunk.css.map",
   "index.html": "/MarioStrikersWebsite/index.html",
-  "precache-manifest.52ebfd0552ccc1d4bf16f30bb4a40500.js": "/MarioStrikersWebsite/precache-manifest.52ebfd0552ccc1d4bf16f30bb4a40500.js",
+  "precache-manifest.7817782285451bcd26b253b1ee2a3330.js": "/MarioStrikersWebsite/precache-manifest.7817782285451bcd26b253b1ee2a3330.js",
   "service-worker.js": "/MarioStrikersWebsite/service-worker.js"
 }

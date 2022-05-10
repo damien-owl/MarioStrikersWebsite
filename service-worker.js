@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MarioStrikersWebsite/precache-manifest.52ebfd0552ccc1d4bf16f30bb4a40500.js"
+  "/MarioStrikersWebsite/precache-manifest.7817782285451bcd26b253b1ee2a3330.js"
 );
 
 workbox.clientsClaim();
