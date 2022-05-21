@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MarioStrikersWebsite/static/css/main.36273857.css",
-    "main.js": "/MarioStrikersWebsite/static/js/main.7310f738.js",
+    "main.js": "/MarioStrikersWebsite/static/js/main.fd49cfa3.js",
     "static/js/787.4fbafe53.chunk.js": "/MarioStrikersWebsite/static/js/787.4fbafe53.chunk.js",
     "static/media/landing_page_bg2.png": "/MarioStrikersWebsite/static/media/landing_page_bg2.c792aaba29b8514d965c.png",
     "static/media/Ragnarok_logo.png": "/MarioStrikersWebsite/static/media/Ragnarok_logo.2c1b9e81b18a37c976e2.png",
@@ -16,11 +16,11 @@
     "static/media/discord_icon_black.png": "/MarioStrikersWebsite/static/media/discord_icon_black.fcb1b31f7dec865b27fe.png",
     "index.html": "/MarioStrikersWebsite/index.html",
     "main.36273857.css.map": "/MarioStrikersWebsite/static/css/main.36273857.css.map",
-    "main.7310f738.js.map": "/MarioStrikersWebsite/static/js/main.7310f738.js.map",
+    "main.fd49cfa3.js.map": "/MarioStrikersWebsite/static/js/main.fd49cfa3.js.map",
     "787.4fbafe53.chunk.js.map": "/MarioStrikersWebsite/static/js/787.4fbafe53.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36273857.css",
-    "static/js/main.7310f738.js"
+    "static/js/main.fd49cfa3.js"
   ]
 }
