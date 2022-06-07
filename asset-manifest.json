@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/MarioStrikersWebsite/static/css/main.37100153.css",
-    "main.js": "/MarioStrikersWebsite/static/js/main.31ab3024.js",
+    "main.css": "/MarioStrikersWebsite/static/css/main.8f6ee9ce.css",
+    "main.js": "/MarioStrikersWebsite/static/js/main.4bdef536.js",
     "static/js/787.4fbafe53.chunk.js": "/MarioStrikersWebsite/static/js/787.4fbafe53.chunk.js",
     "static/media/landing_page_bg2.png": "/MarioStrikersWebsite/static/media/landing_page_bg2.c792aaba29b8514d965c.png",
     "static/media/Ragnarok_logo.png": "/MarioStrikersWebsite/static/media/Ragnarok_logo.2c1b9e81b18a37c976e2.png",
+    "static/media/mario.retourne.bw.png": "/MarioStrikersWebsite/static/media/mario.retourne.bw.835246193c7b6a3e8866.png",
+    "static/media/super-mario-strikers-bw.png": "/MarioStrikersWebsite/static/media/super-mario-strikers-bw.01c951067c33adde4574.png",
     "static/media/discord_logo.png": "/MarioStrikersWebsite/static/media/discord_logo.ae9339fd4329f98984bd.png",
+    "static/media/mario-strikers-charged-bw.png": "/MarioStrikersWebsite/static/media/mario-strikers-charged-bw.100b8f22cd39bf563ff4.png",
     "static/media/crumbLogo.png": "/MarioStrikersWebsite/static/media/crumbLogo.32701f7e2c367152c921.png",
     "static/media/wclogo.png": "/MarioStrikersWebsite/static/media/wclogo.f81f7aa6257123e8351e.png",
     "static/media/wii_sports_logo.png": "/MarioStrikersWebsite/static/media/wii_sports_logo.bc8bb4a06f9d5ab83704.png",
     "static/media/mario_strikers_france_logo.png": "/MarioStrikersWebsite/static/media/mario_strikers_france_logo.ed6ea169dbb7aa2f5362.png",
+    "static/media/mario_strikers_nederland_logo.png": "/MarioStrikersWebsite/static/media/mario_strikers_nederland_logo.db9fced3bef5b4684488.png",
     "static/media/mario_strikers_speedrunning_logo.png": "/MarioStrikersWebsite/static/media/mario_strikers_speedrunning_logo.53aa132fa9f07a91bad9.png",
     "static/media/mario_strikers_deutsch_logo.png": "/MarioStrikersWebsite/static/media/mario_strikers_deutsch_logo.c5777511808436f69c50.png",
     "static/media/WolfTV.png": "/MarioStrikersWebsite/static/media/WolfTV.77a30cb854425bb71253.png",
     "static/media/discord_icon_black.png": "/MarioStrikersWebsite/static/media/discord_icon_black.fcb1b31f7dec865b27fe.png",
     "index.html": "/MarioStrikersWebsite/index.html",
-    "main.37100153.css.map": "/MarioStrikersWebsite/static/css/main.37100153.css.map",
-    "main.31ab3024.js.map": "/MarioStrikersWebsite/static/js/main.31ab3024.js.map",
+    "main.8f6ee9ce.css.map": "/MarioStrikersWebsite/static/css/main.8f6ee9ce.css.map",
+    "main.4bdef536.js.map": "/MarioStrikersWebsite/static/js/main.4bdef536.js.map",
     "787.4fbafe53.chunk.js.map": "/MarioStrikersWebsite/static/js/787.4fbafe53.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37100153.css",
-    "static/js/main.31ab3024.js"
+    "static/css/main.8f6ee9ce.css",
+    "static/js/main.4bdef536.js"
   ]
 }
